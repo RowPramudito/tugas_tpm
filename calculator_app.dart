@@ -64,6 +64,11 @@ class _CalculatorState extends State<Calculator> {
             'Result: $result',
             style: TextStyle(fontSize: 24),
           ),
+          SizedBox(height: 20),
+          Text('Group Member:', style: TextStyle(fontSize: 18),),
+          Text('Achmad Azril Mutawazin / 123200058'),
+          Text('Haidarrachman Gustavian Rahardjo / 123200075'),
+          Text('Rowang Pramudito / 123200098'),
         ],
       ),
     );
